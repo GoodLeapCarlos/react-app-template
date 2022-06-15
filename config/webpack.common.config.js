@@ -27,7 +27,7 @@ module.exports = {
                 },
               },
               target: 'es5',
-              loose: false,
+              loose: true,
               externalHelpers: true,
               keepClassNames: false,
             },
