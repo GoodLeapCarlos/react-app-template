@@ -26,7 +26,7 @@ module.exports = {
                   runtime: 'automatic'
                 },
               },
-              target: 'es5',
+              target: 'es2016',
               loose: true,
               externalHelpers: true,
               keepClassNames: false,
